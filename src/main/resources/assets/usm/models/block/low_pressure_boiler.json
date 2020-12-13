@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "usm:block/low_pressure_boiler_top",
+    "side": "usm:block/low_pressure_boiler_side",
+    "front": "usm:block/low_pressure_boiler_face",
+    "bottom": "minecraft:block/bricks"
+  }
+}

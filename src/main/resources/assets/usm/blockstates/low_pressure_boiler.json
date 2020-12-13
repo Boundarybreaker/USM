@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "usm:block/low_pressure_boiler"}
+  }
+}

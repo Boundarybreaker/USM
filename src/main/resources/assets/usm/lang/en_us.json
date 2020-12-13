@@ -1,0 +1,21 @@
+{
+  "block.usm.brass_block": "Brass Block",
+  "block.usm.copper_block": "Copper Block",
+  "block.usm.copper_ore": "Native Copper Ore",
+  "block.usm.low_pressure_boiler": "Low Pressure Boiler",
+  "block.usm.malachite_ore": "Malachite Ore",
+  "block.usm.sphalerite_ore": "Sphalerite Ore",
+  "block.usm.steel_block": "Steel Block",
+  "block.usm.zinc_block": "Zinc Block",
+  "itemGroup.usm.usm": "USM",
+  "item.usm.brass_ingot": "Brass Ingot",
+  "item.usm.brass_nugget": "Brass Nugget",
+  "item.usm.copper_ingot": "Copper Ingot",
+  "item.usm.copper_nugget": "Copper Nugget",
+  "item.usm.malachite_gem": "Malachite Gem",
+  "item.usm.sphalerite_gem": "Sphalerite Gem",
+  "item.usm.steel_ingot": "Steel Ingot",
+  "item.usm.steel_nugget": "Steel Nugget",
+  "item.usm.zinc_ingot": "Zinc Ingot",
+  "item.usm.zinc_nugget": "Zinc Nugget"
+}

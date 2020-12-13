@@ -1,28 +1,33 @@
 {
   "schemaVersion": 1,
-  "id": "starter",
+  "id": "usm",
   "version": "${version}",
 
-  "name": "Fabric Starter",
-  "icon": "assets/starter/icon.png",
-  "description": "Template for starting out Fabric mods",
+  "name": "USM",
+  "icon": "assets/usm/icon.png",
+  "description": "A new age of steam power",
   "license": "MIT",
   "contact": {
-    "sources": "https://github.com/CottonMC/FabricStarter"
+    "sources": "https://github.com/Boundarybreaker/USM"
   },
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.cottonmc.starter.FabricStarter"
+      "space.bbkr.usm.USM"
+    ],
+    "cardinal-components": [
+      "space.bbkr.usm.registry.USMComponents"
     ]
   },
   "mixins": [
-    "mixins.starter.json"
+    "mixins.usm.json"
   ],
   "depends": {
     "fabricloader": ">=0.4.0"
   },
   "custom": {
-    "modmenu:api": true
+    "cardinal-components": [
+      "usm:steam"
+    ]
   }
 }
